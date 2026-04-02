@@ -9,3 +9,5 @@ Welcome to the Jan Suraaj Overseas (JSO) election documentation portal.
 - [Constitution](constitution/jso-constitution.md)
 - [Members](members/member-details.md)
 - [Elections 2026](elections/2026/election-results.md)
+- [Meetings](meetings/2026/election-results.md)
+- [Orientation](orientation/jso_member_orientation.pdf)
