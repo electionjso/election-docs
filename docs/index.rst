@@ -10,4 +10,4 @@ Welcome to jso-election's documentation!
    constitution/jso-constitution
    members/member-details
    elections/2026/election-results
-   meeting/
+   meetings/
