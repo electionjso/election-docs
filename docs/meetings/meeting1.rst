@@ -1,4 +1,4 @@
-Jan Suraaj Overseas (JSO)
+Meeting 1
 =========================
 
 Election & Nomination Committee (ENC) – Meeting 1
