@@ -11,6 +11,9 @@ extensions = ['myst_parser']  # To use Markdown
 templates_path = ['_templates']
 html_static_path = ['_static']
 
+# The master toctree document.
+master_doc = 'index'
+
 html_theme = 'sphinx_rtd_theme'
 html_logo = '_static/jso.jpg'
 html_theme_options = {
